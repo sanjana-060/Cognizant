@@ -11,13 +11,13 @@ def interview_que(input_values):
     default = "I'm sorry, I don't have a response for that question."
 
     if input_values in greet:
-        return "I'm [Your Name]. I have [X years] of experience in [your field/industry]. I'm passionate about [mention something related to the job or industry], and I've achieved [mention any notable achievements or experiences]."
+        return "I'm [Your Name].I have [X years] of experience in [your field/industry].I'm passionate about [mention something related to the job or industry], and I've achieved [mention any notable achievements]."
 
     elif input_values in strength:
-        return "My strengths include [mention 2-3 relevant strengths like problem-solving, teamwork, attention to detail, etc.]. For example, I'm skilled at [mention specific skill] which has helped me [give an example of how this strength benefited you in the past]."
+        return "My strengths include [mention 2-3 relevant strengths like problem-solving,teamwork,attention to detail, etc.]. For example, I'm skilled at [mention specific skill] which has helped me [give an example of how this strength benefited you in the past]."
 
     elif input_values in week:
-        return "One weakness I've identified is [mention a genuine weakness], but I've been working on it by [describe steps you've taken to improve]. For instance, I've been [mention what you've been doing to overcome this weakness]."
+        return "One weakness I've identified is [mention a genuine weakness],but I've been working on it by [describe steps you've taken to improve]. For instance, I've been [mention what you've been doing to overcome this weakness]."
 
     elif input_values in work:
         return "I want to work here because I admire your company's values and I'm excited about the opportunity to contribute my skills to your team."
