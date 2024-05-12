@@ -5,6 +5,9 @@ DEMO
 
 
 
-https://github.com/sanjana-060/Cognizant/assets/96861195/64c1abd0-98be-46ce-b01f-c7cf8583e4bb
+
+
+
+https://github.com/sanjana-060/Cognizant/assets/96861195/84b2028d-13f4-4057-b773-54742611bcdc
 
 
